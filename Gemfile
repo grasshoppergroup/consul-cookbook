@@ -6,7 +6,7 @@
 
 source 'https://rubygems.org'
 
-gem 'berkshelf'
+gem "berkshelf", "~> 7.0"
 gem 'poise', '~> 2.2'
 gem 'poise-boiler'
 gem 'poise-service', '~> 1.0'
